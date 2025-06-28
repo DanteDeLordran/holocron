@@ -1,4 +1,4 @@
-site_name: Lordran Holocron
+site_name: Holocron
 
 theme:
   name: material
@@ -44,3 +44,33 @@ theme:
   - search.suggest
   - toc.follow
 
+nav:
+  - Holocron: 
+    - index.md
+
+  - Python:
+    - python/index.md
+
+  - TS:
+    - ts/index.md
+
+  - SvelteKit:
+    - svelte/index.md
+
+  - PyTorch:
+    - pytorch/index.md
+
+  - Docker:
+    - docker/index.md
+
+  - K8s:
+    - k8s/index.md
+
+  - GCP:
+    - gcp/index.md
+
+  - Postgres:
+    - postgres/index.md
+
+  - Redis:
+    - redis/index.md
