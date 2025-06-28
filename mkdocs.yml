@@ -50,6 +50,40 @@ nav:
 
   - Python:
     - python/index.md
+    - python/uv.md
+    - python/scaffolding.md
+    - python/builtin_functions.md
+    - Standard library:
+      - python/stdlib/index.md
+      - python/stdlib/data_structures.md
+      - python/stdlib/files_archives.md
+      - python/stdlib/datetime.md
+      - python/stdlib/math.md
+      - python/stdlib/cli.md
+      - python/stdlib/networking.md
+      - python/stdlib/security_hashing_compression.md
+      - python/stdlib/serialization_persistence.md
+    - python/file_handling.md
+    - python/exception_handling.md
+    - python/lambdas.md
+    - python/io.md
+    - python/oop.md
+    - python/fp.md
+    - python/sorted.md
+    - python/magic_methods.md
+    - python/iterators.md
+    - python/generators.md
+    - python/decorators.md
+    - python/context_manager.md
+    - python/callbacks.md
+    - python/multithreading.md
+    - python/multiprocessing.md
+    - python/asyncio.md
+    - python/memmory_management.md
+    - python/metaclasses.md
+    - python/descriptors.md
+    - python/eval.md
+    - python/exec.md
 
   - TS:
     - ts/index.md
